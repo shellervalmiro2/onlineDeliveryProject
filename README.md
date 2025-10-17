@@ -1,3 +1,9 @@
+Бизнес-домен: “Система обработки онлайн-заказов в ресторане доставки еды” 
+Имя: Мунгой Шеллер Валмиро Да Линда
+Группа: 5130904/30108
+Вариант: 2
+
+
 # Restaurant Delivery SMO System
 
 A simulation model for restaurant order processing based on Queueing Theory.
