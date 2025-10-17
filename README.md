@@ -24,3 +24,12 @@ A simulation model for restaurant order processing based on Queueing Theory.
 - `domain-model.mmd` - UML Class Diagram
 - `sequence-happy-flow.mmd` - Successful order flow
 - `sequence-negative-flow.mmd` - Order rejection flow
+
+
+
+1. sd
+<img width="750" height="766" alt="image" src="https://github.com/user-attachments/assets/56a267bc-1366-40c3-a424-ac251eb7a021" />
+
+2. ddc
+
+3. dsx
