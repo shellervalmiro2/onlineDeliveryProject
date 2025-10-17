@@ -27,20 +27,20 @@ A simulation model for restaurant order processing based on Queueing Theory.
 
 
 
-1.1. Sequence диаграмма (Успешная обработка заказа):
+## 1.1. Sequence диаграмма (Успешная обработка заказа):
 
 <img width="753" height="765" alt="image" src="https://github.com/user-attachments/assets/c5bee9cb-5ebd-48b9-825a-5f83c1f0bdd5" />
 
 
-1.2. Sequence диаграмма (Переполнение буфера и отказ старого заказа):
+## 1.2. Sequence диаграмма (Переполнение буфера и отказ старого заказа):
 
 <img width="829" height="633" alt="image" src="https://github.com/user-attachments/assets/da6da9ae-4f5f-4417-a97e-1defe0d040fe" />
 
 
-2. Диаграмма классов:
+## 2. Диаграмма классов:
 
 <img width="1205" height="1650" alt="domain-model" src="https://github.com/user-attachments/assets/bcf19589-92fc-4abc-9a11-aa2ace2d90e1" />
 
 
-4. Flowchart:
+### 4. Flowchart:
 <img width="1192" height="1650" alt="flowchart2" src="https://github.com/user-attachments/assets/44323ff2-3fae-442d-8d58-f1dab87f95f5" />
