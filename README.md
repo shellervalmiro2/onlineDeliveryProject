@@ -1,7 +1,7 @@
 Бизнес-домен: “Система обработки онлайн-заказов в ресторане доставки еды” 
 Имя: Мунгой Шеллер Валмиро Да Линда
 Группа: 5130904/30108
-Вариант: 2
+Вариант: 2 [ИБ; И32; П31; Д1031; Д10O3; Д2П2; Д2Б2; OР2; ОД2]
 
 
 # Restaurant Delivery SMO System
@@ -27,9 +27,20 @@ A simulation model for restaurant order processing based on Queueing Theory.
 
 
 
-1. sd
-<img width="750" height="766" alt="image" src="https://github.com/user-attachments/assets/56a267bc-1366-40c3-a424-ac251eb7a021" />
+1.1. Sequence диаграмма (Успешная обработка заказа):
 
-2. ddc
+<img width="753" height="765" alt="image" src="https://github.com/user-attachments/assets/c5bee9cb-5ebd-48b9-825a-5f83c1f0bdd5" />
 
-3. dsx
+
+1.2. Sequence диаграмма (Переполнение буфера и отказ старого заказа):
+
+<img width="829" height="633" alt="image" src="https://github.com/user-attachments/assets/da6da9ae-4f5f-4417-a97e-1defe0d040fe" />
+
+
+2. Диаграмма классов:
+
+<img width="1205" height="1650" alt="domain-model" src="https://github.com/user-attachments/assets/bcf19589-92fc-4abc-9a11-aa2ace2d90e1" />
+
+
+4. Flowchart:
+<img width="1192" height="1650" alt="flowchart2" src="https://github.com/user-attachments/assets/44323ff2-3fae-442d-8d58-f1dab87f95f5" />
