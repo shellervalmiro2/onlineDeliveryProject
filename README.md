@@ -37,21 +37,28 @@
 
 ### 1.1. Sequence диаграмма (Успешная обработка заказа):
 
-<img width="753" height="765" alt="image" src="https://github.com/user-attachments/assets/c5bee9cb-5ebd-48b9-825a-5f83c1f0bdd5" />
+<img width="3224" height="1880" alt="sequenceH" src="https://github.com/user-attachments/assets/3a412375-4f37-484f-87ba-8827428e610b" />  
+  
+
 
 
 
 ### 1.2. Sequence диаграмма (Переполнение буфера и отказ старого заказа):
 
-<img width="829" height="633" alt="image" src="https://github.com/user-attachments/assets/da6da9ae-4f5f-4417-a97e-1defe0d040fe" />
+<img width="3760" height="1880" alt="sequenceN2" src="https://github.com/user-attachments/assets/dec1443f-3750-40c2-ad78-a832257bf305" />
+  
+
 
 
 
 ### 2. Диаграмма классов:
 
-<img width="1205" height="1650" alt="domain-model" src="https://github.com/user-attachments/assets/bcf19589-92fc-4abc-9a11-aa2ace2d90e1" />
+<img width="2666" height="1880" alt="clasDiagramm" src="https://github.com/user-attachments/assets/ba615038-48d1-48e2-be4c-a2b7d77a2f3a" />
+
+
 
 
 
 ### 4. Flowchart:
-<img width="1192" height="1650" alt="flowchart2" src="https://github.com/user-attachments/assets/44323ff2-3fae-442d-8d58-f1dab87f95f5" />
+<img width="1907" height="1880" alt="flowchart" src="https://github.com/user-attachments/assets/5fb06a03-5cb7-42c4-ab62-d572ed3b0f7e" />
+
